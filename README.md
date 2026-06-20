@@ -1,7 +1,5 @@
 # Regional Sales Intelligence Dashboard | Python EDA & Power BI Analytics
 
-![Dashboard Banner](images/executive_overview.png)
-
 ## 📌 Project Overview
 
 The Regional Sales Intelligence Dashboard is an end-to-end analytics project that combines Python-based Exploratory Data Analysis (EDA) with Power BI dashboarding to transform raw sales data into actionable business insights.
@@ -18,57 +16,17 @@ Analyze regional sales data to identify the key drivers of revenue, profit, and 
 
 ## 🛠️ Tools & Technologies
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Power BI
-- Microsoft Excel
-
----
-
-## 📂 Project Structure
-
-```text
-regional-sales-intelligence-dashboard
-│
-├── Data
-│   └── Regional Sales Dataset New.xlsx
-│
-├── Notebook
-│   └── EDA_Regional_Sales_Analysis.ipynb
-│
-├── Power BI Dashboard
-│   └── Regional_Sales_Dashboard.pbix
-│
-├── Images
-│   ├── executive_overview.png
-│   ├── product_channel_performance.png
-│   ├── geographic_customer_insights_top5.png
-│   └── geographic_customer_insights_bottom5.png
-│
-└── README.md
-```
+Python | Pandas | NumPy | Matplotlib | Seaborn | Power BI | Microsoft Excel
 
 ---
 
 ## 📊 Dataset Description
-
 The dataset contains transactional sales information across multiple regions, states, customers, products, and sales channels.
 
-### Key Features
+---
 
-- Order Date
-- Customer Name
-- Product Name
-- Revenue
-- Profit
-- Profit Margin
-- Unit Price
-- Sales Channel
-- Region
-- State
+### Key Features
+Order Date | Customer Name | Product Name | Revenue | Profit | Profit Margin | Unit Price | Sales Channel | Region | State
 
 ---
 
@@ -111,11 +69,9 @@ The insights generated during EDA were leveraged to design the Power BI dashboar
 
 The dashboard consists of three analytical pages that provide a comprehensive view of business performance.
 
----
-
 ## 1️⃣ Executive Overview & Trends
 
-![Executive Overview](images/executive_overview.png)
+![Executive Overview](https://github.com/YashShah1432/regional-sales-intelligence-dashboard/blob/main/executive_overview.png)
 
 ### KPI Summary
 
@@ -146,7 +102,7 @@ The dashboard consists of three analytical pages that provide a comprehensive vi
 
 ## 2️⃣ Product & Channel Performance
 
-![Product & Channel Performance](images/product_channel_performance.png)
+![Product & Channel Performance](https://github.com/YashShah1432/regional-sales-intelligence-dashboard/blob/main/product_channel_performance.png)
 
 ### Dashboard Highlights
 
@@ -171,11 +127,11 @@ The dashboard consists of three analytical pages that provide a comprehensive vi
 
 ### Top Performers
 
-![Top Performers](images/geographic_customer_insights_top5.png)
+![Top Performers](https://github.com/YashShah1432/regional-sales-intelligence-dashboard/blob/main/geographic_customer_insights_top5.png)
 
 ### Bottom Performers
 
-![Bottom Performers](images/geographic_customer_insights_bottom5.png)
+![Bottom Performers](https://github.com/YashShah1432/regional-sales-intelligence-dashboard/blob/main/geographic_customer_insights_bottom5.png)
 
 ### Dashboard Highlights
 
@@ -235,63 +191,14 @@ The dashboard consists of three analytical pages that provide a comprehensive vi
 
 # 🚀 Business Recommendations
 
-### Product Strategy
+- Focus on high-margin and top-performing products to maximize profitability.
+- Strengthen relationships with high-value customers and reduce customer concentration risk.
+- Expand successful strategies from high-performing regions to underperforming markets.
+- Invest further in high-performing sales channels while optimizing weaker ones.
+- Leverage seasonal sales trends for better inventory, marketing, and resource planning.
+- Use data-driven insights to support strategic business decisions and sustainable growth.
 
-- Increase focus on high-margin products.
-- Promote profitable products with lower market penetration.
-
-### Regional Expansion
-
-- Replicate successful strategies from high-performing regions.
-- Investigate underperforming states to identify growth opportunities.
-
-### Customer Strategy
-
-- Strengthen relationships with high-value customers.
-- Implement retention strategies for top-performing accounts.
-
-### Channel Optimization
-
-- Continue investing in wholesale channel growth.
-- Improve efficiency within lower-performing sales channels.
-
-### Seasonal Planning
-
-- Align inventory planning with seasonal demand patterns.
-- Utilize historical trends for forecasting and decision-making.
-
----
-
-## 📌 Dashboard Features
-
-✔ Executive KPI Monitoring
-
-✔ Revenue & Profit Trend Analysis
-
-✔ Product Performance Evaluation
-
-✔ Customer Insights
-
-✔ Geographic Analysis
-
-✔ Channel Performance Monitoring
-
-✔ Profitability Tracking
-
-✔ Interactive Power BI Visualizations
-
----
-
-## 🔮 Future Enhancements
-
-- Sales Forecasting
-- Customer Segmentation
-- Customer Lifetime Value Analysis
-- Predictive Analytics
-- Automated Reporting Pipelines
-- Advanced Business Intelligence Metrics
-
----
+--
 
 ## ⭐ Conclusion
 
