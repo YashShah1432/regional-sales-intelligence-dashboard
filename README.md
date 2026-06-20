@@ -23,8 +23,6 @@ Python | Pandas | NumPy | Matplotlib | Seaborn | Power BI | Microsoft Excel
 ## 📊 Dataset Description
 The dataset contains transactional sales information across multiple regions, states, customers, products, and sales channels.
 
----
-
 ### Key Features
 Order Date | Customer Name | Product Name | Revenue | Profit | Profit Margin | Unit Price | Sales Channel | Region | State
 
